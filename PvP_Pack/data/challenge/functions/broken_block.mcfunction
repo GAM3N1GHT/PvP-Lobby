@@ -1,9 +1,0 @@
-scoreboard players set @a BDBlackGlass 0
-scoreboard players set @a BDBlueGlass 0
-scoreboard players set @a BDGlowstone 0
-scoreboard players set @a BDLantern 0
-scoreboard players set @a BDPolishedBlackstone 0
-scoreboard players set @a BDPolishedBlackstoneBrickStairs 0
-scoreboard players set @a BDPolishedBlackstoneStairs 0
-scoreboard players set @a BDPurpleGlass 0
-place template challenge:combat_stage_reload -366 32 -16
