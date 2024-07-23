@@ -1,0 +1,13 @@
+{
+    "type": "challenge:theater",
+    "generator": {
+        "biome_source": {
+            "seed": 0,
+            "type": "minecraft:fixed",
+            "biome": "challenge:stage"
+        },
+        "seed": 0,
+        "settings": "challenge:stage_noise_s",
+        "type": "minecraft:noise"
+    }
+}
